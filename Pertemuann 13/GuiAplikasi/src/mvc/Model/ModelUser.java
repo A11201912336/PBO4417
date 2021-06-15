@@ -7,7 +7,7 @@ package mvc.Model;
 
 /**
  *
- * @author rizqullahramadhan
+ * 
  */
 public class ModelUser {
     private String nik;

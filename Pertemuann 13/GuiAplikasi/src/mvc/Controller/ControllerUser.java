@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author rizqullahramadhan
+ * 
  */
 public final class ControllerUser {
     FormUser form;

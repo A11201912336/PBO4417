@@ -12,7 +12,7 @@ import java.sql.SQLException;
 
 /**
  *
- * @author rizqullahramadhan
+ * 
  */
 public class Koneksi {
     static Connection connect;
@@ -24,8 +24,8 @@ public class Koneksi {
             db.setPassword("");
              try {
                 connect = db.getConnection();
-            } catch (SQLException e) {
-                System.out.println("Error Connection : "+e.getMessage());
+            } catch (SQLException ex) {
+                System.out.println("Error Connection : "+ex.getMessage());
             }
         }
         return connect;

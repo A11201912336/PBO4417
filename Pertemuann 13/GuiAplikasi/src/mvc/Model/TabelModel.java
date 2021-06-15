@@ -8,7 +8,7 @@ import java.util.List;
 import javax.swing.table.AbstractTableModel;
 /**
  *
- * @author rizqullahramadhan
+ *
  */
 public class TabelModel extends AbstractTableModel{
     

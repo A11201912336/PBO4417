@@ -15,7 +15,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author rizqullahramadhan
+ * 
  */
 public final class ControllerAdmin {
     FormAdmin form;
